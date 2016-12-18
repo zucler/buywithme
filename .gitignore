@@ -106,7 +106,6 @@ skin/install/
 var/
 
 .idea
-composer.lock
 CHANGELOG.md
 CONTRIBUTING.md
 COPYING.txt

@@ -1,29 +1,12 @@
 <?php
 return array (
-  'cache_types' => 
-  array (
-    'compiled_config' => 1,
-    'config' => 1,
-    'layout' => 1,
-    'block_html' => 1,
-    'collections' => 1,
-    'reflection' => 1,
-    'db_ddl' => 1,
-    'eav' => 1,
-    'customer_notification' => 1,
-    'full_page' => 1,
-    'config_integration' => 1,
-    'config_integration_api' => 1,
-    'translate' => 1,
-    'config_webservice' => 1,
-  ),
   'backend' => 
   array (
     'frontName' => 'management',
   ),
   'crypt' => 
   array (
-    'key' => '4cadb58e64651a359f401e0f36296f67',
+    'key' => '79f69555fae03f1ecdb3c93e93e32ff5',
   ),
   'session' => 
   array (
@@ -56,8 +39,24 @@ return array (
   ),
   'x-frame-options' => 'SAMEORIGIN',
   'MAGE_MODE' => 'default',
+  'cache_types' => 
+  array (
+    'config' => 1,
+    'layout' => 1,
+    'block_html' => 1,
+    'collections' => 1,
+    'reflection' => 1,
+    'db_ddl' => 1,
+    'eav' => 1,
+    'customer_notification' => 1,
+    'full_page' => 1,
+    'config_integration' => 1,
+    'config_integration_api' => 1,
+    'translate' => 1,
+    'config_webservice' => 1,
+  ),
   'install' => 
   array (
-    'date' => 'Sat, 17 Dec 2016 16:02:35 +0000',
+    'date' => 'Sun, 18 Dec 2016 11:57:15 +0000',
   ),
 );
